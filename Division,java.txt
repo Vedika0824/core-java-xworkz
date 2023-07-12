@@ -1,0 +1,24 @@
+class Division {
+
+public static void main (String div[]){
+
+div(85,2);
+div(45,6);
+div(2589,123);
+div(753,42);
+div(365,125);
+div(742,35);
+div(658,452);
+div(325,41);
+div(985,74);
+div(9637,452);
+}
+public static void div(int a, int b){
+	
+	System.out.println(a/b);
+
+}
+
+
+
+}
